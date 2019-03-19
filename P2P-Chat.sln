@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2P-Chat", "P2P-Chat\P2P-Chat.csproj", "{7EF51D37-7C1F-426B-86F1-E0E669E2D522}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptographyTest", "CryptographyTest\CryptographyTest.csproj", "{BC86AF68-301A-4D3E-AF90-B3AFB5BF57DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7EF51D37-7C1F-426B-86F1-E0E669E2D522}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EF51D37-7C1F-426B-86F1-E0E669E2D522}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EF51D37-7C1F-426B-86F1-E0E669E2D522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC86AF68-301A-4D3E-AF90-B3AFB5BF57DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC86AF68-301A-4D3E-AF90-B3AFB5BF57DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC86AF68-301A-4D3E-AF90-B3AFB5BF57DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC86AF68-301A-4D3E-AF90-B3AFB5BF57DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
